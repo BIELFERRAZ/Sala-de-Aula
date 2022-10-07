@@ -1,0 +1,29 @@
+body {
+    background: url(Imagem/thumb-1920-540082.jpg );
+    text-align: center;
+    color: #f70000;
+}
+
+h1{
+    color: red;
+    font-weight: 800;
+    margin: 0;
+    background: linear-gradient(to bottom, red 0%,  red, red 65%, red 67%);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    white-space: nowrap;
+    
+}
+label{
+    color: red;
+  
+    
+}
+h2{
+    color: #f70000;
+  
+}
+p{
+    color: #f70000;
+}
