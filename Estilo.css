@@ -1,29 +1,35 @@
 body {
     background: url(Imagem/thumb-1920-540082.jpg );
     text-align: center;
-    color: #f70000;
+    color:#ff0000;
 }
 
-h1{
-    color: red;
+h1 {
+    color: rgb(255, 0, 0);
     font-weight: 800;
     margin: 0;
-    background: linear-gradient(to bottom, red 0%,  red, red 65%, red 67%);
+    background: linear-gradient(to bottom, red 0%, red, red 65%, red 67%);
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
     white-space: nowrap;
-    
+
 }
-label{
+
+label {
     color: red;
-  
-    
+
+
 }
-h2{
+
+h2 {
     color: #f70000;
-  
+
 }
-p{
+
+p {
+    color: #f70000;
+}
+a{
     color: #f70000;
 }
